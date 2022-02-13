@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+}
+
+.note{
+    width: 100%;
+    margin: 0px;
+    font-size: 10px;  
+}
+
+#input_box{
+    width: 45%;
+    height: 30px;
+    border-radius: 15px;
+}
+
+canvas{
+    border-radius: 40px;
+    box-shadow:5px 10px 5px #FFFB23;
+}
